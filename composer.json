@@ -1,0 +1,17 @@
+{
+    "name": "fatih/betayonetim",
+    "description": "Beta Yonetim",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fatih Yüzügüldü",
+            "email": "info@tuvsa.com"
+        }
+    ],
+    "require": {}
+}
